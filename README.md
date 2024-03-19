@@ -70,3 +70,11 @@ annoying.  And clearly creating an interface of `apps` defining the functions
 would have been _MUCH_ cleaner and easier to add support for different apps and
 all that jazz.  In the end, it was a nice journey and it works, so I'll leave it
 this way.
+
+## Refs
+
+- [kubectl plugins](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/)
+- [Cobra and plugin](https://blog.chmouel.com/2022/03/18/show-plugins-list-to-a-cli-when-using-gos-cobra-library/)
+  - [code](https://github.com/tektoncd/cli/pull/1535/files)
+- [Hashicorp gRPC Plugin](https://github.com/hashicorp/go-plugin)
+
